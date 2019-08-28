@@ -2,5 +2,5 @@ ibnu resolusi
 - komitmen untuk belajar git dan github untuk menambah ilmu
 - membuat platform untuk pengelolaan video
 - belajar web programming
-- ke depan menguasai web programming
 - menguasai seluruh bahasa pemrograman
+- mengajarkan ilmu program
